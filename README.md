@@ -31,9 +31,6 @@ Generate **high-quality LinkedIn posts** based on your topic and preferred langu
 
 ---
 
-## 🌐 Live Demo
-Try it online here: [https://98a607ad74002cc9a1.gradio.live/](https://98a607ad74002cc9a1.gradio.live/)
-
 ---
 
 ## 💡 Tips for Best Results
